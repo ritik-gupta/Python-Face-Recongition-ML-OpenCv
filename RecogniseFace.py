@@ -56,7 +56,7 @@ svc1 = pickle.load(open(filename, 'rb'))
 
 cam = cv2.VideoCapture(0)
 font = cv2.FONT_HERSHEY_PLAIN
-cv2.namedWindow("Detection ", cv2.WINDOW_AUTOSIZE)
+cv2.namedWindow("opencv_face ", cv2.WINDOW_AUTOSIZE)
 
 while True:
     ret, frame = cam.read()
