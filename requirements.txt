@@ -1,7 +1,4 @@
 opencv-python
 numpy
-sklearn.decomposition
-sklearn.preprocessing
-sklearn.svm
-sklearn.model_selection
-pickle
+sklearn
+scipy
