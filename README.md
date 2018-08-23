@@ -9,6 +9,8 @@
 ## NOTE: If you have Anaconda installed then open "conda prompt". Then:
 
 - type "pip install opencv-python" instead of "pip install -r requirements.txt"
+## NOTE2: For linux users make sure you run program with "python3" instead of simply python and "pip3" instead of pip.
+
 
 ## Steps
 - download all the files to a folder
